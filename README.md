@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
-  <img src=" https://banner2.cleanpng.com/20190121/ucx/kisspng-joomla-web-hosting-service-content-management-syst-joomla-logo-media-social-icon-5c466dabe97b91.1916898815481194679564.jpg" height="30" width="42" alt="canva logo"  />
+  <img src="https://w7.pngwing.com/pngs/623/625/png-transparent-joomla-web-development-computer-icons-content-management-system-joomla-icon-text-logo-computer-wallpaper.png" height="30" width="42" alt="canva logo"  />
  
 </div>
 
