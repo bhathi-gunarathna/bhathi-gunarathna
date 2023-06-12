@@ -100,9 +100,7 @@
   <a href="0773434633" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="0773434633" target="_blank">
-    <img src="https://icons8.com/icon/65072/blogger" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+
 </div>
 
 
