@@ -1,4 +1,19 @@
 <h2 align="center">Hi 👋! My name is Bhathiya and I'm a Software Engineer Student, from Sri Lanka</h2>
+<hr>
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left"><br>- 📚 I'm currently learning on university of Westminster </p>
+
+###
+
+<hr>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
