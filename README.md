@@ -35,6 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" width="42" alt="github logo"  />
   <img width="12" />
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
