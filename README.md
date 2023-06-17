@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Bhathiya and I'm a Software Engineer Student, from Sri Lanka</h2>
 
-   <img height="150" align-item="center" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
+ 
    
 <h3 align="center">👩‍💻  About Me</h3>
 <hr>
@@ -8,7 +8,9 @@
 ###
 <div>
   <p align="left">- 📚 I'm currently learning on university of Westminster </p>
+     <img height="150"  style="float: right," src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
   <br>
+  
 
 ###
 
