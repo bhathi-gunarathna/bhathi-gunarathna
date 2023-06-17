@@ -1,6 +1,6 @@
-<div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E6F717&background=FF003100&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Bhathiya+%F0%9F%98%8E;Software+Engineer+Student%F0%9F%98%89;University+of+Westminster+%F0%9F%98%80;From+Sri+Lanka+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5" alt="Typing SVG" /></a> 
-</div>
+
+   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E6F717&background=FF003100&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Bhathiya+%F0%9F%98%8E;Software+Engineer+Student%F0%9F%98%89;University+of+Westminster+%F0%9F%98%80;From+Sri+Lanka+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5" alt="Typing SVG" /></a> 
+
    
 <h3 align="center">👩‍💻  About Me</h3>
 <hr>
