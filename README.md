@@ -1,19 +1,23 @@
 <div align="center">
-asciiCopy     .　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
+     .　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　          .　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 　　　　 　　　　　　　　　　　　,
-🚀 Welcome to [Your Name]'s Cosmic Code Laboratory 🌌
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Stellar+Software+Engineer;Galactic+Problem+Solver;Debugging+in+Zero+Gravity;Exploring+Digital+Frontiers" alt="Typing SVG" />
+
+    🚀 Welcome to Bhathiya's Cosmic Code Laboratory 🌌
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Stellar+Software+Engineer;Galactic+Problem+Solver;Debugging+in+Zero+Gravity;Exploring+Digital+Frontiers" alt="Typing SVG" />
 </div>
 
 <div align="center">
-🛸 Systems Status Report
-Skill LevelProgress☕️ Coffee ConsumptionShow Image🐛 Bug SquashingShow Image💤 Sleep ScheduleShow Image🎮 Gaming BreaksShow Image
+    <h3>🛸 Systems Status Report</h3>
+    <p>Skill Level | Progress ☕️ Coffee Consumption | 🐛 Bug Squashing | 💤 Sleep Schedule | 🎮 Gaming Breaks</p>
 </div>
 
-🌍 Mission Control Center
-pythonCopyclass CosmicDeveloper:
+---
+
+### 🌍 Mission Control Center
+```python
+class CosmicDeveloper:
     def __init__(self):
-        self.name = "[Your Name]"
+        self.name = "Bhathiya Gunarathna"
         self.role = "Digital Space Explorer"
         self.language_spoken = ["Python", "JavaScript", "Binary", "Klingon"]
         self.current_base = "Planet Earth, Milky Way"
