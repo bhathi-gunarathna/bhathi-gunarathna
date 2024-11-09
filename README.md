@@ -1,15 +1,15 @@
- FILEPATH: /home/developer/profile.md 
-STATUS: 200 OK - Profile Loaded Successfully 
- THEME: Code Editor Style
+<!-- FILEPATH: /home/developer/profile.md -->
+<!-- STATUS: 200 OK - Profile Loaded Successfully -->
+<!-- THEME: Code Editor Style -->
 
-javascript
-
-  @file ProfileReadme.js
-  @version 1.0.0
-  @description A creative developer profile implementation
-  @author [Your Name]
-  @license MIT
- 
+```javascript
+/** 
+ * @file ProfileReadme.js
+ * @version 1.0.0
+ * @description A creative developer profile implementation
+ * @author [Your Name]
+ * @license MIT
+ */
 
 class DeveloperProfile extends SoftwareEngineer {
     constructor() {
@@ -21,10 +21,10 @@ class DeveloperProfile extends SoftwareEngineer {
         this.hobbies = ["Coding", "Gaming", "Coffee"];
     }
 
-
-      @class TechStack
-      @description My current technology expertise levels
-    
+    /**
+     * @class TechStack
+     * @description My current technology expertise levels
+     */
     get techStack() {
         return {
             languages: {
@@ -48,10 +48,10 @@ class DeveloperProfile extends SoftwareEngineer {
         };
     }
 
-    
-      @method getCurrentProjects
-      @returns {Array} List of current projects
-     
+    /**
+     * @method getCurrentProjects
+     * @returns {Array} List of current projects
+     */
     getCurrentProjects() {
         return [
             {
@@ -67,10 +67,10 @@ class DeveloperProfile extends SoftwareEngineer {
         ];
     }
 
-    
-      @method getConnectLinks
-      @returns {Object} Social and professional links
-     
+    /**
+     * @method getConnectLinks
+     * @returns {Object} Social and professional links
+     */
     getConnectLinks() {
         return {
             github: "https://github.com/[YourUsername]",
@@ -80,10 +80,10 @@ class DeveloperProfile extends SoftwareEngineer {
         };
     }
 
-    
-      @method getStats
-      @returns {Object} GitHub statistics
-     
+    /**
+     * @method getStats
+     * @returns {Object} GitHub statistics
+     */
     async getGitHubStats() {
         return {
             totalCommits: "1,000+",
@@ -97,3 +97,32 @@ class DeveloperProfile extends SoftwareEngineer {
 // Initialize Profile Instance
 const myProfile = new DeveloperProfile();
 console.log(`👋 Hi, I'm ${myProfile.name}`);
+```
+
+<!-- Badges Section -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=[YourUsername]&style=flat-square&color=blue)
+[![GitHub Followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[YourUsername])
+[![GitHub Stars](https://img.shields.io/github/stars/[YourUsername]?style=social)](https://github.com/[YourUsername])
+
+</div>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=[YourUsername]&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
+
+<!-- Git Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=[YourUsername]&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+<!-- IDE Style Footer -->
+```bash
+# Thanks for visiting my profile! Here's a cookie 🍪
+echo "Happy Coding! 👨‍💻"
+exit 0
+```
