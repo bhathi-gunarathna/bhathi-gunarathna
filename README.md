@@ -18,7 +18,8 @@
      def __init__(self):
         self.name = "Bhathiya Gunarathna"
         self.role = "Digital Space Explorer"
-        self.language_spoken = ["Python", "JavaScript", "Binary", "Klingon"]
+        self.language = ["Python", "JAVA", "PHP"]
+        self.framework = ["MERN", "Lravel"]
         self.current_base = "Planet Earth, Milky Way"
         
      def current_mission(self):
