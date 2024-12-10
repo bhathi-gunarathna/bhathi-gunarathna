@@ -33,7 +33,7 @@
     def send_signal(self):
         return "10100100 10100100 10100100 ... (Message received!) 📡"
 
-<div align="center"> <h3>🎮 Skill Tree</h3> <img src="https://github.com/bhathi-gunarathna/bhathi-gunarathna/blob/main/Bhathiya%20Skill.png" alt="Skill Tree"> </div>
+<div align="center"> <h3>🎮 Skill Tree</h3> <img src="https://github.com/bhathi-gunarathna/bhathi-gunarathna/blob/main/Bhathiya%20Skill.png" alt="Skill Tree" style="with:100px"> </div>
 <div align="center"> 
      
 <h3>🌌 Tech Constellation</h3> <p> 
