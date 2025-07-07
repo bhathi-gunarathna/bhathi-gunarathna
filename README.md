@@ -13,50 +13,75 @@
 
 ---
 
-### 🌍 Mission Control Center
-     class CosmicDeveloper:
-     def __init__(self):
-        self.name = "Bhathiya Gunarathna"
-        self.role = "Digital Space Explorer"
-        self.language = ["Python", "JAVA", "PHP"]
-        self.framework = ["MERN", "Lravel"]
-        self.current_base = "Planet Earth, Milky Way"
-        
-     def current_mission(self):
-        return {
-            "mission_name": "Project Stardust",
-            "objective": "Crafting stellar digital experiences",
-            "status": "In Progress 🚀",
-            "light_years_traveled": float('inf')
-        }
-    
-    def send_signal(self):
-        return "10100100 10100100 10100100 ... (Message received!) 📡"
+<!--
+  You can create a GitHub profile README by adding a repo named exactly like your GitHub username.
+  Example: username/username repository with this README.md
+-->
 
-<div align="center"> <h3>🎮 Skill Tree</h3> <img src="https://github.com/bhathi-gunarathna/bhathi-gunarathna/blob/main/Bhathiya%20Skill.png" alt="Skill Tree" style="with:100px"> </div>
-<div align="center"> 
-     
-<h3>🌌 Tech Constellation</h3> <p> 
-     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
-      </p> 
-     </div>
-     
-<div align="center"> 
-     <h3>📊 Intergalactic Contribution Graph</h3> 
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhathiya-Gunarathna&theme=react-dark&hide_border=true&area=true" width="100%" /> 
-</div>
+# Hi there, I'm Bhathiya 👋
 
+### I'm a Full Stack Developer | Open Source Enthusiast | Tech Learner
 
-<div align="center"> 
-     <h3>📡 Communication Channels</h3> 
-     <p> 
-          <a href="https://www.linkedin.com/in/yourhandle](https://www.linkedin.com/in/bhathiya-gunarathna-640a26253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-          <a href="https://www.dev.to/yourhandle](https://www.facebook.com/bathiya.bathiya.395"><img src="https://img.shields.io/badge/Facebook-0165E1?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
-     </p> 
-</div> 
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **[Your Project Name](https://github.com/yourproject)**
+- 🌱 I’m currently learning **React, Node.js, and Cloud technologies**
+- 👯 I’m looking to collaborate on open source projects and startups
+- 💬 Ask me about **JavaScript, Laravel, Vue.js, and game development**
+- ⚡ Fun fact: I love creating games based on Sri Lankan history and mythology!
+
+---
+
+### 🛠️ Skills & Technologies
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F9531E?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank" rel="noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank" rel="noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank" rel="noreferrer">
+    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+⭐️ From [Bhathiya Sahan](https://github.com/yourusername)
+
 <div align="center"> ✦ ✦ ✦ ✦ ✦ </div> 
     
 　 　　　　　　　.　　　　　　    。
